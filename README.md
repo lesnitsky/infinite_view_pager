@@ -5,6 +5,8 @@ Flutter infinite view pager widget
 [![GitHub stars](https://img.shields.io/github/stars/lesnitsky/infinite_view_pager.svg?style=social)](https://github.com/lesnitsky/infinite_view_pager)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lesnitsky_a.svg?label=Follow%20me&style=social)](https://twitter.com/lesnitsky_a)
 
+![Demo](https://screenshots-lesnitsky.s3.eu-west-2.amazonaws.com/infinite_view_pager_demo.gif)
+
 ## Installation
 
 ```yaml
