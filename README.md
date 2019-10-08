@@ -17,6 +17,8 @@ dependencies:
 ## Example
 
 ```dart
+import 'package:infinite_view_pager/infinite_view_pager.dart';
+
 class InfiniteViewPagerDemo extends StatefulWidget {
   @override
   _InfiniteViewPagerDemoState createState() => _InfiniteViewPagerDemoState();
@@ -46,7 +48,7 @@ class _InfiniteViewPagerDemoState extends State<InfiniteViewPagerDemo> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: InfinitePageView(
+      child: InfiniteViewPager(
         onPageChanged: (direction) {
           index += direction;
         },
